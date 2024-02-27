@@ -9,4 +9,4 @@
   
 <img src="https://github.com/DaniAlves27/Mario/blob/main/imagens/Captura%20de%20tela%202024-02-27%20181206.png?raw=true" alt="print-pag"/>
 
-<p>Visite a pagina  <img src="https://github.com/DaniAlves27/Mario/blob/main/imagens/cogumelo.png?raw=true" style="width:10px; heigth:40px" >-></p><a href="https://danialves27.github.io/Mario/"> Clique aqui!</a>
+<p>Visite a pagina -></p><a href="https://danialves27.github.io/Mario/"> <img src="https://github.com/DaniAlves27/Mario/blob/main/imagens/cogumelo.png?raw=true" style="width:50px; heigth:30px" ></a>
