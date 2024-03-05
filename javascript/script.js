@@ -64,7 +64,7 @@ const jump = () => {
 
 
 function restartGame() {
-    window.location.reload();
+    window.location.href="inicio.html";
   }
 
 
